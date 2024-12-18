@@ -1,8 +1,13 @@
-# 中文文案排版指北
+# 「中文文案排版指北」格式轉換助手
 
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/chinese-copywriting-guidelines/localized.svg)](https://crowdin.com/project/chinese-copywriting-guidelines)
 [![Built with Almace Scaffolding](https://d349cztnlupsuf.cloudfront.net/amsf-badge.svg)](https://sparanoid.com/note/chinese-copywriting-guidelines/)
 
+製作了一個基於[**中文文案排版指北的 GPT 應用**](https://chatgpt.com/g/g-675dfca4fbd08191bfd861598f470a61-zhong-wen-wen-an-pai-ban-zhi-bei-ge-shi-zhuan-huan-zhu-shou)，提供給經常需要出文的使用者使用（例如：學校社團的網宣組、美宣組、公司的行銷、宣傳、文案等）。不過，雖說是基於**中文文案排版指北**，但排除了一個規則（不會在這個 GPT 上面實作）即 **重複標點符號**。因考量作者會特別使用不符合文法的標點符號數量，應該是為了達成其他目的（如：attention），因此這個 GPT 不會對標點符號數量進行更動。（補充：使用此應用需登入 ChatGPT 帳號）
+
+> 另外也包含英文搭配中文全形引號（如：「I love my cat」），由於英文應該要使用 "" 而非「」，但這部分這個 GPT 也不會進行干預。
+
+## 中文文案排版指北
 統一中文文案、排版的相關用法，降低團隊成員之間的溝通成本，增強網站氣質。
 
 Other languages:
